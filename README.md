@@ -53,6 +53,13 @@
 
 
 ## Output:
+<img width="1298" height="769" alt="Screenshot 2026-03-11 090408" src="https://github.com/user-attachments/assets/0bd9f506-d5c4-4365-8613-20c8d2b6d619" />
+<img width="1293" height="405" alt="Screenshot 2026-03-11 090431" src="https://github.com/user-attachments/assets/3eaef91d-cc99-4025-b92a-e31d047aaeab" />
+<img width="1316" height="797" alt="Screenshot 2026-03-11 090446" src="https://github.com/user-attachments/assets/b21512c6-d763-4209-8c24-647746479e5d" />
+
+
+
+
 
 
 ### Name:S.MARY AKSHARA
